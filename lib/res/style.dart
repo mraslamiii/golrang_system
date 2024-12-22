@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 import 'package:golrang_system/res/colors/light_color.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 

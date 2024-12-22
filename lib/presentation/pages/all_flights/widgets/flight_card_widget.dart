@@ -8,7 +8,7 @@ import 'package:golrang_system/presentation/pages/all_flights/widgets/remain_tic
 import 'package:golrang_system/presentation/widgets/price.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
-import '../../../../res/AppSpacing.dart';
+import '../../../../res/app_spacing.dart';
 import 'flight_animation.dart';
 import 'flight_class_widget.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 
 class FlightAnimationWidget extends StatefulWidget {
   const FlightAnimationWidget({super.key});

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:golrang_system/presentation/pages/all_flights/widgets/flight_card_widget.dart';
 import 'package:golrang_system/presentation/pages/flight_detail/logic.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 
 class FlightInfo extends GetView<FlightDetailLogic> {
   const FlightInfo({super.key});

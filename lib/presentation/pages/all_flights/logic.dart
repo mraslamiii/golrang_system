@@ -19,12 +19,7 @@ class AllFlightsLogic extends GetxController
     getFlights();
   }
 
-  void dateTimeClicked(FlightEntity flight) {
-    if (state != null) {}
-  }
-
   Future getFlights() async {
-
     change([], status: RxStatus.loading());
 
     try {
@@ -32,7 +27,6 @@ class AllFlightsLogic extends GetxController
       change(data, status: RxStatus.success());
       changeFilterList(state![0].startTime ?? '');
       minPriceList = getMinPriceForEachDay(state!);
-
     } catch (e) {
       RxStatus.error();
 

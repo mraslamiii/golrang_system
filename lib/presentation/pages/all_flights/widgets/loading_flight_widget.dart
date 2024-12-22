@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:golrang_system/domain/entities/flight_entity.dart';
 import 'package:golrang_system/presentation/pages/all_flights/widgets/flight_card_widget.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
 class LoadingFlightWidget extends StatelessWidget {

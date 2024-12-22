@@ -7,7 +7,7 @@ import 'package:golrang_system/presentation/pages/all_flights/logic.dart';
 import 'package:golrang_system/presentation/pages/all_flights/widgets/flight_card_widget.dart';
 import 'package:golrang_system/presentation/pages/all_flights/widgets/horiz_date_picker/horiz_date_picker.dart';
 import 'package:golrang_system/presentation/pages/all_flights/widgets/loading_flight_widget.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
 class AllFlightsPage extends StatefulWidget {

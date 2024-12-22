@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:golrang_system/presentation/pages/flight_detail/pages/flight_info.dart';
 import 'package:golrang_system/presentation/pages/flight_detail/pages/flight_rule.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 
 import '../../widgets/price.dart';
 import 'logic.dart';

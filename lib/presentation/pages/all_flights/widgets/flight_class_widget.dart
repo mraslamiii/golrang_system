@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:golrang_system/domain/entities/flight_entity.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 import 'package:golrang_system/res/colors/light_color.dart';
 
 class FlightClassWidget extends StatelessWidget {

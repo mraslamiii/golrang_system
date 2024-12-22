@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:golrang_system/core/utilities/price_convertor.dart';
 import 'package:golrang_system/domain/entities/flight_entity.dart';
-import 'package:golrang_system/res/AppSpacing.dart';
+import 'package:golrang_system/res/app_spacing.dart';
 
 class PriceWidget extends StatelessWidget {
   final FlightEntity flightEntity;
